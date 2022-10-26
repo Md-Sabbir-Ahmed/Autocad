@@ -6,6 +6,6 @@
 |T2|27/10/2022| Status Bar |[:notebook_with_decorative_cover:](https://www.protectedtext.com/autocad21)||[ Status Bar ](https://user-images.githubusercontent.com/64752426/198137306-15961efa-f361-4c87-98de-ed97a8d979ff.png)||
 |T3|27/10/2022| OSNAP & OTrack |[:notebook_with_decorative_cover:](https://www.protectedtext.com/autocad21)||[ OSNAP & OTrack ](https://user-images.githubusercontent.com/64752426/198141267-0b5dbc8c-5a9c-44dc-9b12-9edf145d4d8c.png)||
 |T4|27/10/2022| Orthomode & Polar Tracking |[:notebook_with_decorative_cover:](https://www.protectedtext.com/autocad21)||[ Orthomode & Polar Tracking ](https://user-images.githubusercontent.com/64752426/198146626-2f173763-ef34-498f-9c8e-21ac54733db1.png)||
-|T5|27/10/2022|Basics |[:notebook_with_decorative_cover:](https://www.protectedtext.com/autocad21)|link|extra|link|
+|T5|27/10/2022| Drawing Circle, Rectangle & Arc |[:notebook_with_decorative_cover:](https://www.protectedtext.com/autocad21)||extra||
 |T6|27/10/2022|Basics |[:notebook_with_decorative_cover:](https://www.protectedtext.com/autocad21)|link|extra|link|
 |T7|27/10/2022|Basics |[:notebook_with_decorative_cover:](https://www.protectedtext.com/autocad21)|link|extra|link|
