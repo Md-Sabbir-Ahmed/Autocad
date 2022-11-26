@@ -1,3 +1,12 @@
+# **EEE 3100** 
+|Class|Date|Topics|:link:|DWT files|images|Extra information|
+|:-----:|:------:|:-----:|:-----:|:-----:|-----:|-----:|
+|C1|23/11/2022| lab01 |[:notebook_with_decorative_cover:](https://www.protectedtext.com/autocad21)|dwg file|image|extra|
+|C2|23/11/2022| lab02 |[:notebook_with_decorative_cover:](https://www.protectedtext.com/autocad21)|dwg file|image|extra|
+|C3|23/11/2022| lab03 |[:notebook_with_decorative_cover:](https://www.protectedtext.com/autocad21)|dwg file|image|extra|
+|C4|23/11/2022| lab04 |[:notebook_with_decorative_cover:](https://www.protectedtext.com/autocad21)|dwg file|image|extra|
+
+
 
 # **Basics of AutoCAD 2019 [Projukti Team]** 
 |Tutorial|Date|Topics|:link:|DWT files|images|Extra information|
